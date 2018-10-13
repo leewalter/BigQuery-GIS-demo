@@ -20,3 +20,5 @@ you can click and see the images I captured in my tests.
 
 5/ https://github.com/leewalter/BigQuery-GIS-demo/blob/master/bigquery%20gis%20viz%20wind%20speed%20results%20demo5.jpg
 - add chart style to plot based on wind speed, high in red and low in blue ! 
+
+6/ data set saved in file, "Hurricane Florence results-20181013-080709.csv"
