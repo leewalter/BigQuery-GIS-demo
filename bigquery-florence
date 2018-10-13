@@ -1,3 +1,8 @@
+steps to try GCP BigQuery GIS 
+1/ follow https://cloud.google.com/bigquery/docs/gis-tutorial-hurricane#format_your_visualization
+
+2/ I changed the query to show 2018 Florence below, 
+
 #standardSQL
 SELECT
   ST_GeogPoint(longitude, latitude) AS point,
